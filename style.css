@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+#color-val{
+    margin: 50px;
+}
+button{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    
+}
